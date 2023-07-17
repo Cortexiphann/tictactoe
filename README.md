@@ -1,6 +1,6 @@
-# Taş Kağıt Makas Oyunu
+# Tic Tac Toe Oyunu
 
-Bu Python programı, iki oyuncu arasında taş kağıt makas oyununu simüle eder.
+Bu Python programı, iki oyuncu arasında Tic Tac Toe oyununu simüle eder.
 
 ## Nasıl Çalışır?
 
@@ -15,4 +15,4 @@ Bu Python programı, iki oyuncu arasında taş kağıt makas oyununu simüle ede
 
 ## Kullanım
 
-Program çalıştırıldığında, sırayla taş, kağıt veya makas seçen iki oyuncuya hamle yapmaları istenir. Hamleler tahtada işaretlenir ve sonuç ekrana yazdırılır.
+Program çalıştırıldığında, sırayla oyunculara hamle yapmaları istenir. Hamleler tahtada işaretlenir ve sonuç ekrana yazdırılır.
